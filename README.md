@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Martian+Mono&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+World%2C+I'm+Iyan;A+Begginer+Frontend+Developer;Nice+to+Meet+You+" alt="Typing SVG" /></a>
 
-<img src="assets/sakura.gif" alt="Sakura">
+<img src="assets/sakura.gif" alt="sakura">
 
 </div>
 
