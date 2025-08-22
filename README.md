@@ -5,7 +5,7 @@
 <img src="assets/typing.gif" alt="typing">
 
 </div>
-¬
+
 ##
 
 <!-- <div>
